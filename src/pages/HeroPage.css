@@ -1,0 +1,35 @@
+.section-hero-page {
+    background-image: url("../assets/background.jpg");
+    background-size: cover;
+    padding: 9.6rem 1rem 9.6rem 1rem;
+
+    color: white;
+    /*height: 100rem;*/
+}
+
+.section-hero-page h1 {
+    font-weight: 900;
+    font-size: 3.2rem;
+    text-align: center;
+    padding-bottom: 4rem;
+}
+
+.section-hero-page p {
+    padding: 0 2rem;
+
+    font-size: 1.8rem;
+
+}
+
+.hero-page--buttons {
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+    gap: 1.6rem;
+}
+
+.btn {
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+
+}

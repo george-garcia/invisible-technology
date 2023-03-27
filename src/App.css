@@ -24,12 +24,13 @@ html {
 
 
 :root {
-    --primary-color-400: #2DD4BF;
-    --primary-color-900: #134e4a;
+    --primary-color-400: #1AB7EA;
+    --primary-color-900: #0066A4;
     --primary-color-300: #5eead4;
     --secondary-color-500: #D946EF;
     --dark-color-900: rgb(30,32,39);
     --text-light-100: #eee;
+    --primary-color-dark: #083746;
 }
 
 .grid {

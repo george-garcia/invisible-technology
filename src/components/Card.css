@@ -1,0 +1,29 @@
+.section-card {
+    padding-bottom: 4.6rem;
+}
+
+.card-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    padding-bottom: 2rem;
+}
+
+.card-title h2 {
+    font-size: 4rem;
+    padding-bottom: 1rem;
+}
+
+.card-subtitle {
+    text-align: right;
+    font-size: 1.2rem;
+}
+.card-content {
+    text-align: left;
+}
+
+.section-card p {
+    padding-left: 2rem;
+    text-align: left;
+}

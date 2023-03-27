@@ -3,6 +3,8 @@ import Sidebar from "./pages/Sidebar.jsx";
 import Nav from "./pages/Nav.jsx";
 import HeroPage from "./pages/HeroPage.jsx";
 import logo from "./assets/just-logo.svg";
+import Sponsors from "./pages/Sponsors.jsx";
+import Solutions from "./pages/Solutions.jsx";
 
 function App() {
 
@@ -14,6 +16,8 @@ function App() {
 
           <Nav/>
           <HeroPage/>
+          <Sponsors/>
+          <Solutions/>
 
       </div>
   )

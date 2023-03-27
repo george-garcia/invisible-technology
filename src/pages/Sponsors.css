@@ -1,0 +1,13 @@
+.sponsors {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4.3rem;
+    gap: 1rem;
+
+}
+
+.sponsors img {
+    height: 1rem;
+    filter: brightness(0);
+    opacity: 50%;
+}

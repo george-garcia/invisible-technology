@@ -1,0 +1,21 @@
+.section-solutions {
+    color: white;
+}
+
+.solutions-container {
+    background: var(--primary-color-dark);
+    margin: 0 2rem;
+    border-radius: 2px;
+}
+
+.solutions-container h1 {
+    font-size: 3.6rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+.solutions-container p {
+    font-size: 1.8rem;
+    text-align: center;
+    padding-bottom: 3.8rem;
+}

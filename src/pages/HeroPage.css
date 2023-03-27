@@ -1,10 +1,16 @@
 .section-hero-page {
-    background-image: url("../assets/background.jpg");
-    background-size: cover;
     padding: 9.6rem 1rem 9.6rem 1rem;
 
     color: white;
     /*height: 100rem;*/
+    margin-bottom: 4.3rem;
+}
+
+.hero-page-background {
+    background-image: url("../assets/background.jpg"), linear-gradient(to bottom, rgba(0,0,0,.5),rgba(0,0,0,.8));
+    background-blend-mode: overlay;
+    background-size: cover;
+
 }
 
 .section-hero-page h1 {

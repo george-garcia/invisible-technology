@@ -1,11 +1,13 @@
 .section-solutions {
     color: white;
+    /*padding-bottom: 2.3rem;*/
 }
 
 .solutions-container {
     background: var(--primary-color-dark);
     margin: 0 2rem;
     border-radius: 2px;
+    padding-bottom: 2rem;
 }
 
 .solutions-container h1 {
